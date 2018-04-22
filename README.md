@@ -1,4 +1,4 @@
-# GlusterFS Client Service
+# Zabbix Template GlusterFS Client Service
 [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/bloodia/Zabbix-Template-GlusterFS-Client-Service/blob/master/LICENSE)
 [![Build Status](https://travis-ci.org/bloodia/Zabbix-Template-GlusterFS-Client-Service.svg?branch=master)](https://travis-ci.org/bloodia/Zabbix-Template-GlusterFS-Client-Service)
 
