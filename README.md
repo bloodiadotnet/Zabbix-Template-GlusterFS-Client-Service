@@ -43,7 +43,7 @@ optional arguments:
   -n FSNAME, --fsname FSNAME
                         select virtual file system name
 
-for example: /usr/local/bin/lld-glusterfs-fuse.py -t 'fuse' -n '/data'
+for example: /usr/local/bin/lld-glusterfs-fuse.py -t 'fuse.glusterfs' -n '/data'
 ```
 
 ## Install Script
