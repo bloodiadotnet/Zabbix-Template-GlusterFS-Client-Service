@@ -9,7 +9,7 @@ python:
   - 3.5
   - 3.6
 install:
-  - pip install argparse
+  - pip install 'argparse'
   - pip install 'coverage>=4.0,<4.4'
   - pip install 'codeclimate-test-reporter'
 script:
