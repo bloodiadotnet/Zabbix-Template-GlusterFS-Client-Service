@@ -21,7 +21,6 @@ Monitoring client side GlusterFS-Fuse mount points with Zabbix template.
 ### Python
 - 2.6
 - 2.7
-- ~~3.2~~
 - 3.3
 - 3.4
 - 3.5
