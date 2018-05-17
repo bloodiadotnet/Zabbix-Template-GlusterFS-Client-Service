@@ -2,6 +2,7 @@
 [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/bloodia/Zabbix-Template-GlusterFS-Client-Service/blob/master/LICENSE)
 [![Build Status](https://travis-ci.org/bloodia/Zabbix-Template-GlusterFS-Client-Service.svg?branch=master)](https://travis-ci.org/bloodia/Zabbix-Template-GlusterFS-Client-Service)
 [![Maintainability](https://api.codeclimate.com/v1/badges/e89acce12b5fcee6d622/maintainability)](https://codeclimate.com/github/bloodia/Zabbix-Template-GlusterFS-Client-Service/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/e89acce12b5fcee6d622/test_coverage)](https://codeclimate.com/github/bloodia/Zabbix-Template-GlusterFS-Client-Service/test_coverage)
 
 ## Overview
 Monitoring client side GlusterFS-Fuse mount points with Zabbix template.  
