@@ -1,19 +1,20 @@
 #!/usr/bin/python
 # coding: utf-8
-# ==============================================================================
-# Script Name     : lld-glusterfs-fuse.py
-# Tool Version    : 1.0.0
-# Arguments       : -
-# Options         : -h, --help     show this help message and exit
-#                 : -v, --version  show version and exit
-#                 : -t, --fstype   select virtual file system type
-#                 : -n, --fsname   select virtual file system name
-# Usage           : $0 [Option]
-# OS Version      : CentOS release 5, 6, 7
-# ==============================================================================
-# Date          Author        Changes
-# 2018/04/10    Yuta Akama    New Creation
-# ==============================================================================
+# ------------------------------------------------------------------------------
+# Script Name  : lld-glusterfs-fuse.py
+# Tool Version : 1.0.0
+# Arguments    : -
+# Options      : -h, --help     show this help message and exit
+#              : -v, --version  show version and exit
+#              : -t, --fstype   select virtual file system type
+#              : -n, --fsname   select virtual file system name
+# Usage        : $0 [Option]
+# Return       : -
+# -------------+-------------------------------------------+--------------------
+# Date         | Changes                                   | Author
+# -------------+-------------------------------------------+--------------------
+# 2017/07/18   | New Creation                              | @bloodia
+# ------------------------------------------------------------------------------
 # --+----1----+----2----+----3----+----4----+----5----+----6----+----7----+----8
 
 import json
