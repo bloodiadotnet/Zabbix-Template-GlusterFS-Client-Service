@@ -48,14 +48,14 @@ for example: /usr/local/bin/lld-glusterfs-fuse.py -t 'fuse.glusterfs' -n '/data'
 ```
 
 ## How to install
-### Install Script
+### Script
 - Create directory "/usr/local/bin" and copy "Custom Script" file (py) to inside.  
 - Change "Custom Script" file (py) to 555 or dr-xr-xr-x using chmod.  
 
-### Install UserParameter Config
+### UserParameter Config
 - Copy "UserParameter Config" file (conf) to /etc/zabbix/zabbix_agentd.d and restart Zabbix agent.  
 
-### Import Template
+### Template
 - Import the template file (xml) and assign it to the host monitored.
 
 ## Author
