@@ -25,7 +25,6 @@ Monitoring client side GlusterFS-Fuse mount points with Zabbix template.
 
 ### Python Modules
 - json
-- subprocess
 - re
 - argparse
 
